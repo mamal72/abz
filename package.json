@@ -1,0 +1,29 @@
+{
+  "name": "abz",
+  "version": "1.0.0",
+  "description": "Simple JavaScript random array element chooser with percentage weight|chance support",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mamal72/abz.git"
+  },
+  "keywords": [
+    "random",
+    "array-random",
+    "array",
+    "ab",
+    "test"
+  ],
+  "author": "Mohamad Jahani <m4m4lj@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mamal72/abz/issues"
+  },
+  "homepage": "https://github.com/mamal72/abz#readme",
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  }
+}
