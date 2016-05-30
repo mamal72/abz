@@ -1,6 +1,6 @@
 {
   "name": "abz",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple JavaScript random array element chooser with percentage weight|chance support",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,8 @@
     "array-random",
     "array",
     "ab",
-    "test"
+    "test",
+    "ab-test"
   ],
   "author": "Mohamad Jahani <m4m4lj@gmail.com>",
   "license": "MIT",

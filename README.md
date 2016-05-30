@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/mamal72/abz.svg?branch=master)](https://travis-ci.org/mamal72/abz)
+[![npm version](https://badge.fury.io/js/abz.svg)](https://badge.fury.io/js/abz)
 # abz
 Simple JavaScript random array element chooser with percentage weight|chance support.
 
